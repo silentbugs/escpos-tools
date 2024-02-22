@@ -17,3 +17,6 @@ vendor/
 # other build files
 build/*
 *.phar
+
+/data/*
+/output.html
